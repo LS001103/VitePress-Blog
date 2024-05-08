@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Hi~"
+  name: "Hi~早上好"
   text: "welcome to my blog"
   tagline: Where there is a will, there is a way.
   actions:
